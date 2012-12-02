@@ -1,0 +1,40 @@
+body{
+	font-family:"Arial";
+}
+
+.datatable caption{
+	text-align: left;
+	font-size: 11pt;
+}
+
+.datatable td{
+	padding:5px;
+	vertical-align:top;
+	border-bottom:1px solid #eee;
+}
+
+.datatable thead{
+	background-color:#efefef;
+	font-weight: bolder;
+}
+
+#mainheader{
+	background-image: -ms-linear-gradient(top, #666666 -50%, #222222 100%);
+	background-image: -moz-linear-gradient(top, #666666 -50%, #222222 100%);
+	background-image: -o-linear-gradient(top, #666666 -50%, #222222 100%);
+	background-image: -webkit-linear-gradient(top left, #666666 -50%, #222222 100%);
+	background-image: linear-gradient(top left, #666666 -50%, #222222 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(-0.5,#666666), color-stop(1,#222222));
+	
+	
+	color:#eeeeee;
+	font-size:24pt;
+	font-family:"Arial";
+	text-indent:150px;
+	border:0px;
+	width:100%;
+	height:24px;
+	font-weight:bold;
+	vertical-align:middle;
+}
+
